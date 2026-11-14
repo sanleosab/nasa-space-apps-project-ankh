@@ -2,14 +2,28 @@
 
 A responsive, cinematic educational archive exploring mission hardware, science instruments and historic traces left on the Moon and Mars.
 
-## Run on macOS
+Run on Windows and macOS
 
-1. Extract `after-the-landing-premium.zip`.
-2. Open the `after-the-landing` folder in VS Code or Finder.
-3. Open `index.html` in a browser, or use VS Code Live Server for local development.
-4. No npm install, build step, backend or external JavaScript library is required.
+Windows
 
-Internet is used only for Google Fonts. All 18 project photographs are stored locally and remain available offline.
+1. Extract after-the-landing-premium.zip using Windows File Explorer or an extraction tool.
+2. Open the extracted after-the-landing folder.
+3. Double-click index.html to open the website in your default browser.
+4. Alternatively, open the folder in VS Code and use the Live Server extension.
+
+macOS
+
+1. Extract after-the-landing-premium.zip by double-clicking it.
+2. Open the extracted after-the-landing folder in Finder or VS Code.
+3. Open index.html in your browser, or use VS Code Live Server for local development.
+
+Requirements
+
+* No Node.js or npm installation required.
+* No build process or backend required.
+* No external JavaScript libraries required.
+* Internet connection is used for Google Fonts and externally hosted planetary textures.
+* All 18 project photographs are stored locally.
 
 ## What is included
 
