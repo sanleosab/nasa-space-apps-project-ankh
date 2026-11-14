@@ -1,4 +1,4 @@
-# AFTER THE LANDING — Premium Space Heritage Explorer
+# AFTER THE LANDING — Space Heritage Explorer
 
 A responsive, cinematic educational archive exploring mission hardware, science instruments and historic traces left on the Moon and Mars.
 
